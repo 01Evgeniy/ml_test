@@ -1,3 +1,6 @@
+pip install torch
+pip install transformers
+
 import streamlit as st
 
 import torch
